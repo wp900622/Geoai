@@ -20,3 +20,6 @@
 AI 交通助理介面
 提供即時路況摘要與建議
 可查詢特定路段或區域 
+
+<img width="1912" height="911" alt="image" src="https://github.com/user-attachments/assets/04722b77-ac81-43f7-85f8-37774a8fc876" />
+
